@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/71ad8d09-d67a-4fa9-aee3-9ed356f0ac9d/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/SuperCoolAzureNet2",
+    "appService.deploySubpath": ""
+}
